@@ -7,6 +7,3 @@ faiss-cpu
 langchain_google_genai
 langchain_community
 unstructured
-libmagic
-python-magic
-python-magic-bin
